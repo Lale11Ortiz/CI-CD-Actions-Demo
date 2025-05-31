@@ -49,8 +49,6 @@ Este archivo contiene un test de validación para verificar si GitHub Actions es
 ---
 
 ## ✍️🏽 Notas de desarrollo
-Se realizaron varios intentos fallidos de integración como parte del proceso de aprendizaje.
-
-Todos los errores fueron resueltos aplicando buenas prácticas de debugging, calidad de código (PEP8) y formateo.
-
-Este proyecto representa el primer contacto exitoso con CI/CD en la nube mediante herramientas modernas.
+-Se realizaron varios intentos fallidos de integración como parte del proceso de aprendizaje.
+-Todos los errores fueron resueltos aplicando buenas prácticas de debugging, calidad de código (PEP8) y formateo.
+-Este proyecto representa el primer contacto exitoso con CI/CD en la nube mediante herramientas modernas.
