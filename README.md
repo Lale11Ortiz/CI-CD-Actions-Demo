@@ -29,8 +29,8 @@ Este flujo de trabajo (`workflow`) se activa **automáticamente** cuando se hace
 
 ## ✅ Archivo de test principal
 
-```bash
-Automation/test_ci_cd_ok.py
+`Automation/test_ci_cd_ok.py`
+
 Este archivo contiene un test de validación para verificar si GitHub Actions está correctamente configurado y puede ejecutar pruebas con unittest en entornos automatizados.
 
 Notas de desarrollo
